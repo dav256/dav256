@@ -21,9 +21,7 @@ i'm passionate about helping people and organizations communicate through design
 
 ## now
 
-- **vanta** — my current build, now in its second iteration
-- **church graphics & media** — flyers, announcements, and event graphics for church programs and community outreach
-- **mellowshot_it photography** — independent photography work: composition, storytelling, and editing
+building vanta (a discord bot) · church graphics & media · mellowshot_it photography
 
 ## links
 
