@@ -7,6 +7,7 @@ i help people and organizations communicate through design and digital media. th
 ## projects
 
 - [portfolio](https://github.com/dav256/portfolio) — DavFXStudio, my creative portfolio
+- [mellowshot](https://github.com/dav256/mellowshot) — photography: portraits, events, and church media
 - [vanta-2.0](https://github.com/dav256/vanta-2.0) — Vanta, a Discord bot
 - [afterschool](https://github.com/dav256/afterschool) — a local games portal
 - [dav256.github.io](https://github.com/dav256/dav256.github.io) — The Way Church site
