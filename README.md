@@ -1,16 +1,27 @@
+<div align="center">
+
 # david
 
-creative director · designer · photographer · community leader
+**creative director · designer · photographer · community leader**
 
-i help people and organizations communicate through design and digital media. through church media, photography, and creative projects, i focus on creating meaningful experiences that bring people together.
+i help people and organizations communicate through design and digital media —
+church media, photography, and creative projects that bring people together.
+
+[guns.lol/davfxstudio](https://guns.lol/davfxstudio)
+
+</div>
+
+---
 
 ## projects
 
-- [portfolio](https://github.com/dav256/portfolio) — DavFXStudio, my creative portfolio
-- [mellowshot](https://github.com/dav256/mellowshot) — photography: portraits, events, and church media
-- [vanta-2.0](https://github.com/dav256/vanta-2.0) — Vanta, a Discord bot
-- [afterschool](https://github.com/dav256/afterschool) — a local games portal
-- [dav256.github.io](https://github.com/dav256/dav256.github.io) — The Way Church site
+| project | what it is |
+| --- | --- |
+| [portfolio](https://github.com/dav256/portfolio) | DavFXStudio — my creative portfolio |
+| [mellowshot](https://github.com/dav256/mellowshot) | photography — portraits, events, and church media |
+| [vanta-2.0](https://github.com/dav256/vanta-2.0) | Vanta — a Discord bot |
+| [afterschool](https://github.com/dav256/afterschool) | a local games portal |
+| [dav256.github.io](https://github.com/dav256/dav256.github.io) | The Way Church site |
 
 ## stack
 
@@ -30,7 +41,3 @@ i help people and organizations communicate through design and digital media. th
 ## now
 
 building vanta (a discord bot) · church graphics & media · mellowshot_it photography
-
-## links
-
-[guns.lol/davfxstudio](https://guns.lol/davfxstudio)
