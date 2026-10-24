@@ -2,7 +2,14 @@
 
 creative director · designer · photographer · community leader
 
-i'm passionate about helping people and organizations communicate through design and digital media. through church media, photography, and creative projects, i focus on creating meaningful experiences that bring people together and make a lasting impact.
+i help people and organizations communicate through design and digital media. through church media, photography, and creative projects, i focus on creating meaningful experiences that bring people together.
+
+## projects
+
+- [portfolio](https://github.com/dav256/portfolio) — DavFXStudio, my creative portfolio
+- [vanta-2.0](https://github.com/dav256/vanta-2.0) — Vanta, a Discord bot
+- [afterschool](https://github.com/dav256/afterschool) — a local games portal
+- [dav256.github.io](https://github.com/dav256/dav256.github.io) — The Way Church site
 
 ## stack
 
