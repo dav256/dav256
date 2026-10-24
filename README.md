@@ -9,6 +9,13 @@ church media, photography, and creative projects that bring people together.
 
 [guns.lol/davfxstudio](https://guns.lol/davfxstudio)
 
+<p>
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/dav256?style=for-the-badge&logo=github&label=followers">
+  <img alt="Total stars" src="https://img.shields.io/github/stars/dav256?style=for-the-badge&logo=github&label=stars">
+  <a href="https://dav256.github.io/mellowshot/"><img alt="mellowshot site live" src="https://img.shields.io/badge/mellowshot-live-brightgreen?style=for-the-badge&logo=github"></a>
+  <a href="https://dav256.github.io/cogic-history/"><img alt="COGIC history site live" src="https://img.shields.io/badge/COGIC%20history-live-brightgreen?style=for-the-badge&logo=github"></a>
+</p>
+
 </div>
 
 ---
