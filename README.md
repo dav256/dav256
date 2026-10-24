@@ -22,6 +22,7 @@ church media, photography, and creative projects that bring people together.
 | [vanta-2.0](https://github.com/dav256/vanta-2.0) | Vanta — a Discord bot |
 | [afterschool](https://github.com/dav256/afterschool) | a local games portal |
 | [dav256.github.io](https://github.com/dav256/dav256.github.io) | The Way Church site |
+| [cogic-history](https://github.com/dav256/cogic-history) | the story of the Church of God in Christ |
 
 ## stack
 
