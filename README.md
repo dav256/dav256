@@ -1,8 +1,8 @@
 <div align="center">
 
-<h1><img src="https://github.com/dav256.png" width="52" align="middle" alt="dav256"> david</h1>
+<h1><img src="https://github.com/dav256.png" width="52" align="middle" alt="dav256"> David</h1>
 
-**creative director · designer · photographer · community leader**
+**Creative Director · Designer · Photographer · Community Leader**
 
 <p>
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/dav256?style=for-the-badge&logo=github&label=followers">
@@ -11,9 +11,9 @@
   <a href="https://dav256.github.io/cogic-history/"><img alt="COGIC history site live" src="https://img.shields.io/badge/COGIC%20history-live-brightgreen?style=for-the-badge&logo=github"></a>
 </p>
 
-> **Currently:** building creative work across church media, photography, and digital projects, with recent sites live for mellowshot and COGIC history.
+> **Currently:** Building creative work across church media, photography, and digital projects, with recent sites live for mellowshot and COGIC history.
 
-i'm passionate about helping people and organizations communicate through design and digital media. through church media, photography, and creative projects, i focus on creating meaningful experiences that bring people together and make a lasting impact.
+I'm passionate about helping people and organizations communicate through design and digital media. Through church media, photography, and creative projects, I focus on creating meaningful experiences that bring people together and make a lasting impact.
 
 [guns.lol/davfxstudio](https://guns.lol/davfxstudio)
 
@@ -21,18 +21,18 @@ i'm passionate about helping people and organizations communicate through design
 
 ---
 
-## projects
+## Projects
 
-| project | what it is |
+| Project | What It Is |
 | --- | --- |
 | [portfolio](https://github.com/dav256/portfolio) | DavFXStudio — my creative portfolio |
-| [mellowshot](https://github.com/dav256/mellowshot) | photography — portraits, events, and church media |
+| [mellowshot](https://github.com/dav256/mellowshot) | Photography — portraits, events, and church media |
 | [vanta-2.0](https://github.com/dav256/vanta-2.0) | Vanta — a Discord bot |
-| [afterschool](https://github.com/dav256/afterschool) | a local games portal |
+| [afterschool](https://github.com/dav256/afterschool) | A local games portal |
 | [dav256.github.io](https://github.com/dav256/dav256.github.io) | The Way Church site |
-| [cogic-history](https://github.com/dav256/cogic-history) | the story of the Church of God in Christ |
+| [cogic-history](https://github.com/dav256/cogic-history) | The story of the Church of God in Christ |
 
-## stack
+## Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
