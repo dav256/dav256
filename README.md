@@ -4,16 +4,18 @@
 
 **creative director · designer · photographer · community leader**
 
-i'm passionate about helping people and organizations communicate through design and digital media. through church media, photography, and creative projects, i focus on creating meaningful experiences that bring people together and make a lasting impact.
-
-[guns.lol/davfxstudio](https://guns.lol/davfxstudio)
-
 <p>
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/dav256?style=for-the-badge&logo=github&label=followers">
   <img alt="Total stars" src="https://img.shields.io/github/stars/dav256?style=for-the-badge&logo=github&label=stars">
   <a href="https://dav256.github.io/mellowshot/"><img alt="mellowshot site live" src="https://img.shields.io/badge/mellowshot-live-brightgreen?style=for-the-badge&logo=github"></a>
   <a href="https://dav256.github.io/cogic-history/"><img alt="COGIC history site live" src="https://img.shields.io/badge/COGIC%20history-live-brightgreen?style=for-the-badge&logo=github"></a>
 </p>
+
+> **Currently:** building creative work across church media, photography, and digital projects, with recent sites live for mellowshot and COGIC history.
+
+i'm passionate about helping people and organizations communicate through design and digital media. through church media, photography, and creative projects, i focus on creating meaningful experiences that bring people together and make a lasting impact.
+
+[guns.lol/davfxstudio](https://guns.lol/davfxstudio)
 
 </div>
 
