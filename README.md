@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1><img src="https://github.com/dav256.png" width="52" alt="dav256"> david</h1>
+<h1><img src="https://github.com/dav256.png" width="52" align="middle" alt="dav256"> david</h1>
 
 **creative director · designer · photographer · community leader**
 
